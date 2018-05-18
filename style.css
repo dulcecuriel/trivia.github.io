@@ -1,0 +1,116 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "sans-serif", helvetica;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  height: 500px;
+}
+
+.header {
+  background: #ecf0f1;
+  padding: 16px;
+}
+
+.header-title {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  width: 48%;
+}
+
+.header-welcome {
+  text-align: right;
+  display: inline-block;
+  width: 48%;
+}
+
+.subheader{
+  padding: 0;
+}
+
+.subheader-menu {
+  display: inline-block;
+  border: 1px solid #bdc3c7;
+  width: 24%;
+  padding: 12px 0;
+  text-align: center;
+  font-weight: bold;
+}
+#menuArte{
+background: #ecf0f1;
+display: inline-block;
+border: 1px solid #bdc3c7;
+width: 24%;
+padding: 12px 0;
+text-align: center;
+font-weight: bold;
+}
+
+.section-title {
+  display: inline-block;
+  font-size: 25px;
+  font-weight: bold;
+  width: 98%;
+  height: 60px;
+  padding: 15px;
+  text-align: center;
+}
+.section {
+
+}
+
+.section-left {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+  text-align: left;
+}
+
+.section-right {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+  text-align: left;
+  margin-left: -6px;
+}
+
+.left-header {
+  padding: 12px;
+  text-align: center;
+  color: black;
+  border-right: 1.5px solid;
+  border-bottom: 3px solid black;
+}
+
+.right-header {
+  padding: 12px;
+  text-align: center;
+  color: black;
+  border-left: 1.5px solid;
+  border-bottom: 3px solid black;
+}
+
+.left-answers{
+  height: 300px;
+  padding: 12px;
+  border-right: 1.5px solid;
+  text-align: center;
+}
+.right-answers {
+  height: 300px;
+  padding: 12px;
+  text-align: center;
+  border-left: 1.5px solid;
+
+}
+
+.no-play {
+  text-align: center;
+}
